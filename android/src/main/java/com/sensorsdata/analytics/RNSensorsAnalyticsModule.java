@@ -1,4 +1,4 @@
-package com.rn_54;
+package com.sensorsdata.analytics;
 
 
 import android.text.TextUtils;
