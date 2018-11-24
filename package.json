@@ -1,5 +1,5 @@
 {
-  "name": "@sensors.data/react-native-sensors-analytics",
+  "name": "react-native-sensors-analytics",
   "version": "0.0.4",
   "private": false,
   "description": "神策分析 RN 组件",
